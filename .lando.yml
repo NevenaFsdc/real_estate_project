@@ -1,0 +1,4 @@
+name: real_estate_project
+recipe: drupal9
+config:
+  webroot: web
